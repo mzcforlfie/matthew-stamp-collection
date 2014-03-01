@@ -1,6 +1,7 @@
 Matthew's Stamp Collection App
 ---
 
-# About Simon
+# About Matthew's Stamps
 
 Stuff about Matthew's Stamps Here...
+Matthew has been collecting stamps since 1981. He has a variety of expensive and exotic chinese stamps.
